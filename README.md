@@ -1,23 +1,21 @@
-# soules-spectral-barycentre-graph
-Soules Basis for the Estimation of a Spectral Barycentre Network
-This software implements the algorithm described in
+#### This software implements the algorithm described in <a href=""> "The Best Soules Basis for the Estimation of a spectral Barycentre Network"</a> 
 
-"The Best Soules Basis for the Estimation of a Spectral Barycentre Network"
-
-You should be able to reproduce Figs 3-5 in the paper
+You should be able to reproduce Figs. 3-5 in the <a href=""> paper</a> 
 
 HOW TO USE THE SOFTWARE
 
-Download the archive
+Download the <a href=""> archive</a>
 
 In MATLAB, type
-
+```
 >> barycentre
-
+```
+The script will create Figs 3-5.
+```
 
 Please forward any bug, or comment to fmeyer@colorado.edu
 
-Contact:
-Francois Meyer
-E-mail: fmeyer@colorado.edu
+Contact:\
+Francois Meyer\
+E-mail: fmeyer@colorado.edu\
 https://francoismeyer.github.io/
