@@ -15,7 +15,7 @@ The script will create Figs 3-5.
 
 Please forward any bug, or comment to fmeyer@colorado.edu
 
-Contact:\
-Francois Meyer\
-E-mail: fmeyer@colorado.edu\
+Contact:
+Francois Meyer
+E-mail: fmeyer@colorado.edu
 https://francoismeyer.github.io/
