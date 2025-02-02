@@ -4,12 +4,9 @@
 You should be able to reproduce Figs. 3-5 in the <a href=""> paper</a> 
 
 HOW TO USE THE SOFTWARE
-
-Download the <a href=""> archive</a>
-
 In MATLAB, type
 ```
->> barycentre
+>> eval_size
 ```
 The script will create Figs 3-5.
 ```
