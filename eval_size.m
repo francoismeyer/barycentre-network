@@ -55,9 +55,6 @@
 %%______________________________________________________________________________
 %% 
 
-addpath (genpath('./../synt graph'));
-addpath (genpath('./../tree search'));
-
 labarre='–\|/';		% for display; ignore
 
 %
@@ -148,6 +145,5 @@ set (get(gca,'YAxis'), 'LineWidth', 4)
 
 print -depsc 'dl1_barycentre_size.eps'
 
-keyboard;
 
 

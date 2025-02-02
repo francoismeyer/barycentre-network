@@ -3,9 +3,6 @@
 %% the SBMs
 %% We vary the  block size
 
-addpath (genpath('./../synt graph'));
-addpath (genpath('./../tree search'));
-
 labarre='–\|/';		% for display; ignore
 
 n = 512;			     %% graph size

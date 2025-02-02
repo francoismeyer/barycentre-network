@@ -69,9 +69,6 @@
 
 function  [P, p, sizeofBlock] = genSBM (n, equalSize, equalChance, M)
 
-  
-  addpath ('./..');
-
   switch (equalSize)
     case 0
 
